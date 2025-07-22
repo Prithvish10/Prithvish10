@@ -23,7 +23,7 @@
 ---
 
 ## 📫 Connect with Me
-- Email:prithvishmmenon@gmail.com
+- Email: prithvishmmenon@gmail.com
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvish-m-menon-445146248)
 
